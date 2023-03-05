@@ -23,7 +23,7 @@ Hi!! 👋
   
 </div>
 <div style="display: inline_block"><br>
- <img align="center" alt="Helo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt="Helo-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <i class="devicon-csharp-plain colored"></i>
 </div>
 
