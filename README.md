@@ -1,12 +1,19 @@
 Hi!! 👋
 
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:100px;" src="https://cdn.picrew.me/shareImg/org/202303/1887634_h42EytvX.png">
+</div>
+
+
  🤗 My name is Naiara, I'm 29 years old. 
 
- 😍 I love tech, games, movies.
+ 🎮 I love tech, games, movies.
  
- 🤓 I'm studing C#, and .Net Core.
+ 🐇 I have a habbit pet.
  
- 😄 I'm intern backend developer.
+ 📖 I'm studing C#, and .Net Core.
+ 
+ 💻 I'm intern backend developer.
+
 
 
  <div align="center">
