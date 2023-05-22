@@ -25,7 +25,9 @@ Hi!! 👋
 <div style="display: inline_block"><br>
  <img align="center" alt="Helo-Csharp" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <i class="devicon-csharp-plain colored"></i>
- <img heitght ="50" width ="70" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"
+ <img heitght ="50" width ="70" src ="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+ <img heitght ="50" width ="70" src =   "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+ <img heitght ="50" width ="70" src = "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 </div>
 
  ##
