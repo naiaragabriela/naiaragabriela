@@ -10,9 +10,9 @@ Hi!! 👋
  
  🐇 I have a habbit pet.
  
- 📖 I'm studing C#, and .Net Core.
+ 📖 I'm studing ADS.
  
- 💻 I'm intern backend developer.
+ 💻 I'm intern developer.
 
 
 
