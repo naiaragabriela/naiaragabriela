@@ -4,7 +4,7 @@ Hi!! 👋
 </div>
 
 
- 🤗 My name is Naiara, I'm 29 years old. 
+ 🤗 My name is Naiara. 
 
  🎮 I love tech, games, movies.
  
