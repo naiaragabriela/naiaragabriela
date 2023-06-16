@@ -10,9 +10,12 @@ Hi!! 👋
  
  🐇 I have a habbit pet.
  
- 📖 I'm studing ADS.
+ 💻 I'm studing ADS.
  
- 💻 I'm intern developer.
+ 🏢 I'm working at 5by5 Soluções em Sistemas.
+ 
+ 😜 Fun Fact: I'm also Master in Chemistry of  Nanomaterials 🧪
+ 
 
 
 
