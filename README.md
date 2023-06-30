@@ -60,15 +60,11 @@ Hi!! 👋
   media="(prefers-color-scheme: dark)"
 />
   
-
  
 <div> 
-
-## `Visitor count: `
+  
+ ### `Visitor count:`
 ![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
 </div>
-</details>
-##
- 
 
- 
+
