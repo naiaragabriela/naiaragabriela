@@ -61,8 +61,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=naiaragabriela&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-  
-##
+
 
  # ✔️ Visitor Count: 
  
@@ -70,5 +69,7 @@
  
 ![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
 </div>
+
+##
 
 
