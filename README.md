@@ -61,12 +61,10 @@ Hi!! 👋
 />
   
 
-###
+ ### `Visitor count:`
  
 <div> 
 
-  
- ### `Visitor count:`
 ![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
 </div>
 </details>
