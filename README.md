@@ -1,5 +1,7 @@
 # Hi!! 👋
 
+ 🍓 Welcome to my profile!!!
+
  <img align="right" alt="naiara-picture-anime" height="150" style="border-radius: 100px;" src="https://cdn.picrew.me/shareImg/org/202303/1887634_h42EytvX.png">
 </div>
 
@@ -16,14 +18,7 @@
  
  😜 Fun Fact: I'm also Master in Chemistry of  Nanomaterials 🧪
 
- 🍓 Welcome to my profile
 
- # ✔️ Visitor Count: 
- 
-<div> 
- 
-![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
-</div>
 
 
  <div align="center">
@@ -69,5 +64,11 @@
   
 ##
 
+ # ✔️ Visitor Count: 
+ 
+<div> 
+ 
+![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
+</div>
 
 
