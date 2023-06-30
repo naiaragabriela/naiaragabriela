@@ -59,3 +59,16 @@ Hi!! 👋
   srcset="https://github-readme-stats.vercel.app/api?username=naiaragabriela&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
+  
+ ### `Visitor count:`
+![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
+</div>
+</details>
+</div>
+
+  ![Snake animation](https://github.com/naiaragabriela/naiaragabriela/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+##
+ 
