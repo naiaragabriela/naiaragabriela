@@ -21,7 +21,7 @@
 
  🍓 Welcome to my profile!!!
  
- # ✔️ Visitor Count: 
+ ✔️ Visitor Count: 
  
 <div> 
  
