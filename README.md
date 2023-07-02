@@ -2,7 +2,7 @@
 
 
  <img align="right" alt="naiara-picture-anime" height="150" style="border-radius: 100px;" src="https://cdn.picrew.me/shareImg/org/202303/1887634_h42EytvX.png">
-</div>
+</img>
 
 
  🤗 My name is Naiara. 
