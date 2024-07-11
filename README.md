@@ -49,7 +49,6 @@
   <img align="center" height="40" width="52" alt="html logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="52" alt="css logo" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img  align="center" height="40" width="52"  alt="nestjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img  align="center" height="40" width="52" alt="jest logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img  align="center" height="40" width="52"  alt="npm logo" src="https://cdn.simpleicons.org/npm/CB3837" />
   <img  align="center" height="40" width="52" alt="wordpress logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
