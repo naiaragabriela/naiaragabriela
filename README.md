@@ -17,7 +17,7 @@
  
 <div> 
  
-[Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/naiaragabriela/count.svg) 
 </div>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
