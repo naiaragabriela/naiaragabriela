@@ -6,9 +6,6 @@
  
  🐇 I have a habbit pet.
  
- 💻 I'm studing ADS.
- 
- 🚀 I'm working at 5by5 Soluções em Sistemas.
  
  😜 Fun Fact: I'm also Master in Chemistry of  Nanomaterials 🧪
 
@@ -61,6 +58,7 @@
   <img align="center" height="40" width="52" alt="sass logo"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" height="40" width="52" alt="vscode logo"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" height="40" width="52"  alt="visualstudio logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 </div>
 
